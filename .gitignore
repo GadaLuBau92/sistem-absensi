@@ -1,0 +1,7 @@
+# Exclude sensitive files
+*.env
+*.local
+*.json
+*.yml
+*.yaml
+*.log
